@@ -1,5 +1,6 @@
 #!/usr/bin/env python2
 
+import twitter
 from twitter import *
 from slacker import Slacker
 #== For output of all tweet objects in JSON
